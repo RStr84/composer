@@ -1,0 +1,15 @@
+{
+    "name": "straschewski/composer",
+    "description": "I am learning how to use composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raphael Straschewski",
+            "email": "raphael.straschewski@gmx.de"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^3.8"
+    }
+}
