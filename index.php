@@ -14,7 +14,7 @@ $today = Carbon::now()->toDayDateTimeString();
 
 //var_dump($today);
 
-// mit ppp+tab erzeugt
+// mit ppp+tab erzeugt pre print_r
 echo '<pre>';
 print_r($today);
 echo '</pre>';
